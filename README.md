@@ -8,6 +8,8 @@ Team Information
 
 
 # Social Media
+[chief delphi](https://www.chiefdelphi.com/t/frc-9586-anglebotics-2024-build-thread/443115)
+[imgur](https://imgur.com/user/anglebotics)
 [instagram](https://www.instagram.com/anglebotics/)
 [kick](https://kick.com/anglebotics)
 [reddit](www.reddit.com/u/anglebotics/)
