@@ -2,11 +2,11 @@
 
 # Online Presence
 - [GitHub](https://github.com/Anglebotics)
-- [Onshape](https://cad.onshape.com/documents/t/6539f581d0a2593f6730e02c)
+- [Onshape](https://anglebotics.org/onshape)
 
 # Open Alliance Updates
 - [Chief Delphi](https://www.chiefdelphi.com/t/frc-9586-anglebotics-2024-build-thread/443115)
-- [Open Alliance Discord](https://discord.com/channels/906202343178137711/1167141702700638369)
+- [Open Alliance Discord](https://anglebotics.org/openalliance)
 
 # FRC Stats & Events
 - [The Blue Alliance (TBA)](https://thebluealliance.com/team/9586)
